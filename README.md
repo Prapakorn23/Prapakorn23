@@ -19,8 +19,8 @@ Data Science
 <p align="left"> <a href="https://www.github.com/Prapakorn23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/Prapakorn23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prapakorn23&langs_count=10&title_color=3382ed&text_color=ec4899&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/Prapakorn23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prapakorn23&stroke=f97316&background=000000&ring=3382ed&fire=3382ed&currStreakNum=f97316&currStreakLabel=3382ed&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<b>Top Repositories</b>
 
-<a href="https://github.com/Prapakorn23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prapakorn23&langs_count=10&title_color=3382ed&text_color=f97316&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div width="100%" align="center"><a href="https://github.com/Prapakorn23/drift-cv-timeseries" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prapakorn23&repo=drift-cv-timeseries&title_color=3382ed&text_color=ec4899&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Prapakorn23/bustest.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prapakorn23&repo=bustest.github.io&title_color=3382ed&text_color=ec4899&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
