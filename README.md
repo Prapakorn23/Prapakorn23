@@ -124,31 +124,15 @@ me = DataScientist()
 
 <div align="center">
 
-```
-📬  Let's collaborate on data-driven projects!
-```
+<h4>📬 Let's collaborate on data-driven projects!</h4>
 
-<br>
-
-<a href="mailto:prapakornkanjina@gmail.com">
-<img src="https://img.shields.io/badge/%20-prapakornkanjina%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Gmail" />
-</a>
-
-<br>
-
-<a href="https://www.github.com/Prapakorn23" target="_blank">
-<img src="https://img.shields.io/badge/%20-Prapakorn23-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117" alt="GitHub" />
-</a>
-
-<br>
-
-<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank">
-<img src="https://img.shields.io/badge/%20-Prapakorn%20Kanjina-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
-</a>
+<a href="mailto:prapakornkanjina@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="https://www.github.com/Prapakorn23" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=flat-square&color=0891b2&label=visitors&base=100" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&base=100" alt="Profile Views" />
 
 </div>
 
