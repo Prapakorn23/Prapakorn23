@@ -1,26 +1,145 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prapakorn
-==================================================================================================================================
+<div align="center">
 
-Data Science
-------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=220&section=header&text=Prapakorn%20Kanjina&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-Data Science Graduate from CMRU | Passionate about ML, Python & data-driven projects
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%8D+Exploring+Data%2C+Discovering+Insights;%F0%9F%A4%96+Building+ML+%26+Deep+Learning+Models;%F0%9F%93%8A+Turning+Raw+Data+into+Decisions;%F0%9F%9A%80+CMRU+Data+Science+Graduate" alt="Typing SVG" /></a>
 
-* 🌍  I'm based in Chiangmai, Thailand
-* ✉️  You can contact me at [prapakornkanjina@gmail.com](mailto:prapakornkanjina@gmail.com)
-* 🧠  I'm currently learning Advance Deep learning
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-</p>
+## `> whoami`
 
-### Socials
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Prapakorn Kanjina"
+        self.role = "Data Scientist"
+        self.location = "Chiang Mai, Thailand"
+        self.education = "Data Science @ CMRU"
+        self.currently_learning = "Advanced Deep Learning"
 
-<p align="left"> <a href="https://www.github.com/Prapakorn23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+    def get_interests(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Time Series Analysis",
+            "Data-Driven Decision Making",
+        ]
 
-<a href="https://github.com/Prapakorn23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prapakorn23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+me = DataScientist()
+```
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/Prapakorn23/drift-cv-timeseries" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prapakorn23&repo=drift-cv-timeseries&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Prapakorn23/Parliament_system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prapakorn23&repo=Parliament_system&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## `> tech_stack`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+<br><b>Python</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+<br><b>Pandas</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+<br><b>NumPy</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" />
+<br><b>Scikit-learn</b>
+</td>
+<td align="center" width="140">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn" />
+<br><b>Seaborn</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
+<br><b>Jupyter</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+<br><b>VS Code</b>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<br><b>Git</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `> github_analytics`
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prapakorn23&show_icons=true&title_color=0891b2&text_color=8b949e&icon_color=10b981&bg_color=0d1117&hide_border=true&border_radius=12&ring_color=0891b2" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Prapakorn23&theme=dark&hide_border=true&background=0D1117&ring=0891B2&fire=10B981&currStreakLabel=0891B2&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&border_radius=12" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prapakorn23&langs_count=8&layout=compact&title_color=0891b2&text_color=8b949e&icon_color=10b981&bg_color=0d1117&hide_border=true&border_radius=12" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prapakorn23&bg_color=0d1117&color=0891b2&line=10b981&point=e6edf3&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
+</div>
+
+---
+
+## `> pinned_repos`
+
+<div align="center">
+<a href="https://github.com/Prapakorn23/drift-cv-timeseries">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prapakorn23&repo=drift-cv-timeseries&title_color=0891b2&text_color=8b949e&icon_color=10b981&bg_color=0d1117&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Prapakorn23/Parliament_system">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prapakorn23&repo=Parliament_system&title_color=0891b2&text_color=8b949e&icon_color=10b981&bg_color=0d1117&hide_border=true&border_radius=12" />
+</a>
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="mailto:prapakornkanjina@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2" alt="Gmail" />
+</a>
+<a href="https://www.github.com/Prapakorn23" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0891b2" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0891b2" alt="LinkedIn" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&base=100" alt="Profile Views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=120&section=footer" width="100%" />
