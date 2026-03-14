@@ -124,22 +124,32 @@ me = DataScientist()
 
 <div align="center">
 
-<a href="mailto:prapakornkanjina@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2" alt="Gmail" />
-</a>
-<a href="https://www.github.com/Prapakorn23" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0891b2" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0891b2" alt="LinkedIn" />
-</a>
-
-</div>
+```
+📬  Let's collaborate on data-driven projects!
+```
 
 <br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&base=100" alt="Profile Views" />
+<a href="mailto:prapakornkanjina@gmail.com">
+<img src="https://img.shields.io/badge/%20-prapakornkanjina%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Gmail" />
+</a>
+
+<br>
+
+<a href="https://www.github.com/Prapakorn23" target="_blank">
+<img src="https://img.shields.io/badge/%20-Prapakorn23-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117" alt="GitHub" />
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank">
+<img src="https://img.shields.io/badge/%20-Prapakorn%20Kanjina-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=flat-square&color=0891b2&label=visitors&base=100" alt="Profile Views" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=120&section=footer" width="100%" />
