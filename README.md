@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=220&section=header&text=Prapakorn%20Kanjina&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3,12,19,20&height=220&section=header&text=Prapakorn%20Kanjina&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descSize=18&descColor=c0caf5&descAlignY=55&animation=twinkling" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%8D+Exploring+Data%2C+Discovering+Insights;%F0%9F%A4%96+Building+ML+%26+Deep+Learning+Models;%F0%9F%93%8A+Turning+Raw+Data+into+Decisions;%F0%9F%9A%80+CMRU+Data+Science+Graduate" alt="Typing SVG" /></a>
 
@@ -120,20 +120,12 @@ me = DataScientist()
 
 ---
 
-## `> connect`
-
 <div align="center">
 
-<h4>📬 Let's collaborate on data-driven projects!</h4>
-
-<a href="mailto:prapakornkanjina@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;
-<a href="https://www.github.com/Prapakorn23" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&base=1000" alt="Profile Views" />
+<a href="mailto:prapakornkanjina@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://www.github.com/Prapakorn23"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/prapakorn-kanjina-949091375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Prapakorn23&color=0891b2&style=flat-square&label=views&base=1000" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=120&section=footer" width="100%" />
