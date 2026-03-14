@@ -132,7 +132,7 @@ me = DataScientist()
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&base=100" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Prapakorn23&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&base=1000" alt="Profile Views" />
 
 </div>
 
